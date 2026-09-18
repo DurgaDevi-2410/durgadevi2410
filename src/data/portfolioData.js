@@ -88,7 +88,7 @@ export const projects = [
     description: "A feature-rich e-commerce platform with product listings, cart management, secure checkout, and order tracking.",
     stack: ["PHP", "HTML", "CSS", "JS" , "MySQL"],
     image: "/assets/projects/ecommerce.jpg",
-    demo: "/assets/bo.mp4",
+    demo: "https://drive.google.com/file/d/1NHIFDqTwieQC1VbrOIK6td1qmy6MlfNL/view?usp=sharing",
     code: "https://github.com/DurgaDevi-2410/Durga-Boutique"
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     description: "An online crackers shopping platform with categorized product browsing, cart, and seamless order placement.",
     stack: ["PHP", "HTML", "CSS", "JS" , "MySQL"],
     image: "/assets/projects/crackers.jpg",
-    demo: "/assets/crackersv.mp4",
+    demo: "https://drive.google.com/file/d/15bjtIcFGDI3VBH3FZL8sE3GaFpEJ-PhQ/view?usp=sharing",
     code: "https://github.com/DurgaDevi-2410/Durga_Crackers"
   },
   {
@@ -110,7 +110,7 @@ export const projects = [
     description: "An e-commerce website for chips and snacks with product filtering, cart, and secure payment integration.",
     stack: ["PHP", "HTML", "CSS", "JS" , "MySQL"],
     image: "/assets/projects/chips.jpg",
-    demo: "/assets/chips.mp4",
+    demo: "https://drive.google.com/file/d/1ADErVTb5RsiMB6JVO09eHrUPTCBGUmoF/view?usp=sharing",
     code: "https://github.com/DurgaDevi-2410/durga_chips"
   },
   {
@@ -121,7 +121,7 @@ export const projects = [
     description: "A catering service web application for browsing menus, placing orders, and managing catering requests.",
     stack: ["PHP", "HTML", "CSS", "JS" , "MySQL"],
     image: "/assets/projects/catering.jpg",
-    demo: "/assets/cate.mp4",
+    demo: "https://drive.google.com/file/d/1zLbh2MD1MBfZc8ThCNuV5hbqICD1Szfz/view?usp=sharing",
     code: "https://github.com/DurgaDevi-2410/catering"
   },
   {
@@ -132,7 +132,7 @@ export const projects = [
     description: "A construction business website for project showcasing, client inquiries, and service management.",
     stack: ["PHP", "HTML", "CSS", "JS" , "MySQL"],
     image: "/assets/projects/construction.jpg",
-    demo: "assets/project/con.mp4",
+    demo: "https://drive.google.com/file/d/1ULdabdivTDtBBEEOgg4OxHrls9QaL3Qh/view?usp=sharing",
     code: "https://github.com/DurgaDevi-2410/Construction"
   },
   {
