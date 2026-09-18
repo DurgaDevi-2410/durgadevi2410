@@ -36,7 +36,7 @@ export const personalInfo = {
     "Problem Solving & Clean Code"
   ],
   profileImage: "/assets/profile.jpg",
-  cvFile: "/assets/projects/DURGA (4).pdf"
+  cvFile: "/assets/projects/DURGA (5).pdf"
 };
 
 export const socialLinks = [
