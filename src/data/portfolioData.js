@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Durga Devi",
+  name: "Durga Devi N",
   fullName: "Durga Devi N",
   role: "Python & Django Developer",
   subRole: "Full Stack Developer",
@@ -11,7 +11,7 @@ export const personalInfo = {
   status: "Available for work",
   sayHello: "HI THERE, I'M",
   heroHeading: {
-    prefix: "DURGADEVI",
+    prefix: "DURGA DEVI",
     highlight: "PYTHON & DJANGO DEVELOPER",
     suffix: ""
   },

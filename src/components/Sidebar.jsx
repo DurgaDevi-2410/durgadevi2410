@@ -1,6 +1,6 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa6";
-import { FiDownload, FiSend, FiMail } from "react-icons/fi";
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa6";
+import { FiDownload, FiSend } from "react-icons/fi";
 import { personalInfo, socialLinks } from "../data/portfolioData";
 
 export default function Sidebar() {
@@ -11,9 +11,9 @@ export default function Sidebar() {
       case "FaLinkedin":
         return <FaLinkedin />;
       case "FiMail":
-        return <FiMail />;
+        return <FaEnvelope />;
       default:
-        return <FiMail />;
+        return <FaEnvelope />;
     }
   };
 
@@ -46,11 +46,8 @@ export default function Sidebar() {
           </div>
         </div>
 
-        {/* Person Name & Role */}
+        {/* Person Name */}
         <h2 className="profile-name">{personalInfo.name}</h2>
-        <p className="profile-tagline">
-          {personalInfo.role} • {personalInfo.location}
-        </p>
 
         {/* Social media icons */}
         <div className="social-icons-group" aria-label="Social Profiles">
@@ -87,7 +84,7 @@ export default function Sidebar() {
             aria-label="Get in Touch"
           >
             <FiSend />
-            <span>Get in Touch</span>
+            <span>Contact Me</span>
           </a>
         </div>
       </div>
